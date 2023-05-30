@@ -21,7 +21,7 @@ Some of my writing that may be of interest:
 
 - [Yet Another Post on Gradudate School Admissions](/notes/GradSchool.md)
 
-You can also find a collection of all my posts here
+You can also find a collection of all my posts [here](/tags/writing)
 
 
 ## About Me
