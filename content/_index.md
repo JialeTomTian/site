@@ -1,27 +1,42 @@
 ---
-title: 🪴 Quartz 3.3
-enableToc: false
+title: "Home Page"
+enableToc: true
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+## About This Page
+I suck at writing. Even when it comes to basic tasks such as 
+creating pull requests and sending text messages
+, I struggle to come up with coherent sentences that express
+my ideas. In fact, just writing this paragraph took me half an hour 🤡. 
+This website is my best attempt to improve my writing. I hope 
+to use this website as a way to frequently journal
+my ideas and improve my writing skills during the process.
+I don't expect anyone to actually read my entries but just
+thought that using a basic web template would make the process
+a lot more <em>fun</em>.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## Highlighted Posts
+Some of my writing that may be of interest:
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+- [Yet Another Post on Gradudate School Admissions](/notes/GradSchool.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+You can also find a collection of all my posts here
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+## About Me
+👋🏻 My name is Tom Tian and I am a Masters of Science in
+Computer Science (MSCS) student at
+the University of Illinois Urbana Champaign. I recently
+completed my Bachelor of Computer Science at the University
+of Waterloo in Ontario Canada 🇨🇦. Feel free to reach out to me
+using the links at the bottom of this page. You can also find
+a link to my resume [here](https://drive.google.com/file/d/1CWQK7_P0tqz-Q_mhonO7BN_yf-UP3XOi/view?usp=share_link).
 
+
+<div align="center">
+  <img src="/images/HomePage.jpg" alt="Sublime's custom image"/>
+</div>
+<p align="center">
+I don't have a lot of good pictures
+</p>
