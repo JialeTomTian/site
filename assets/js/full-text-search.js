@@ -26,6 +26,7 @@
       content: removeMarkdown(value.content),
     })
   }
+  console.log(content)
 
   const formatForDisplay = (id) => ({
     id,
