@@ -3,8 +3,17 @@ title: "Home Page"
 enableToc: true
 ---
 
+
+## Highlighted Posts
+Some of my writing that may be of interest:
+
+- [Yet Another Post on Graduate School Admissions](/notes/GradSchool.md)
+
+You can also find a collection of all my posts [here](/tags/writing)
+
 ## About This Page
-I suck at writing. Even when it comes to basic tasks such as 
+For a native English speaker, I suck at writing. 
+Even when it comes to basic tasks such as 
 creating pull requests and sending text messages
 , I struggle to come up with coherent sentences that express
 my ideas. In fact, just writing this paragraph took me half an hour 🤡. 
@@ -14,15 +23,6 @@ my ideas and improve my writing skills during the process.
 I don't expect anyone to actually read my entries but just
 thought that using a basic web template would make the process
 a lot more <em>fun</em>.
-
-
-## Highlighted Posts
-Some of my writing that may be of interest:
-
-- [Yet Another Post on Gradudate School Admissions](/notes/GradSchool.md)
-
-You can also find a collection of all my posts [here](/tags/writing)
-
 
 ## About Me
 👋🏻 My name is Tom Tian and I am a Masters of Science in

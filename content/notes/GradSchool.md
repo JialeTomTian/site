@@ -48,6 +48,12 @@ motivation behind attending graduate school. The process of
 applying to graduate schools start well ahead of senior year
 and brings many unforseen challenges along the way. 
 
+Finally, graduate admissions is only a very small part
+of the graduate school experience. If a student does not have
+the motivation to even go through the appliation process, they
+likily would not have the motivation to push through during
+the real hardships of graduate school.
+
 ## Masters vs Ph.D. Programs
 Unlike the rest of the world, Masters programs in the United States usually
 aim to prepare students for the workforce and the amount
@@ -69,8 +75,51 @@ Professor Shriram Krishnamurthi
 - [How CS Masters Funding Works](https://cs.brown.edu/~sk/Memos/Funding-CS-Grad-School/)
 
 ## School Ranking and Selection
+When it comes to higher education, rankings inevitably makes its way
+into every student's decision. After doing a simple Google Search,
+students can probably find every ranking system under the sun that
+looks at different Universities and programs in a thousand different
+ways. I would be lying if I said I did not factor school ranking
+into my final decision. Here are some ranking websites I looked at while
+applying for programs.
 
+- [CS Ranking](https://csrankings.org/#/index?all&us)
+- [US News Report](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)
+
+However, it is important to state that rankings should have a relatively
+low priority when it comes to making the final decision. Factors such as
+advisor, opportunity, location and costs should all play a major role 
+in the final decision making. At the end of the day, I am the one going 
+through graduate school. While going to a higher ranking school can
+open doors, I am not going to graduate schools to impress others but rather
+for the reasons in the next section. 
 
 ## Is graduate school something for me?
+During my undergraduate studies and internships, almost everyone around me
+discouraged me from persuing a Masters without having a strong intention of
+continuing to a Ph.D. I personally believe this sentiment is sensible.
+For most tech jobs, having a Bachelor degree is usually more than enough 
+(there are plenty of code camp developers who write awesome code).
 
+However for me personally, there were three main reasons that I decided to
+continue into graduate school.
+
+1. Exploration: I felt that there were many areas of Computer Science
+that I did not fully explore during my undergrad
+
+2. Experience Academia: While this cannot be fully achieved with a U.S. Masters,
+I want to figure out whether I wish to persue a Ph.D. in the future
+
+3. Open More Opportunities: While a Masters do not have a major effect in most cases,
+they can still open more oppurtunities in the future.
+
+
+
+> [!abstract] Final Thoughts
+> 
+> As a developer, I probably have decades of work ahead of me.
+> Given my personality, I would probably get bored of it in a 
+> few years. Before then, I might as well take a detour and 
+> experience something new. At the end of the day, it is only
+> two years of my life.
 
