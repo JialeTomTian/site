@@ -1,6 +1,6 @@
 ---
 title: "Putting Life into Perspective"
-date: 2023-06-12
+date: 2023-06-13
 tags:
 - Writing
 - Journal
@@ -37,4 +37,6 @@ Got back into TFT and hit diamond. Not a proud accomplishment 😂.
 
 Through this month long (so far) break, I finally took a step back
 and gained some **perspective**.
+
+## Perspective
 
