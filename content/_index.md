@@ -8,6 +8,7 @@ enableToc: true
 Some of my writing that may be of interest:
 
 - [Yet Another Post on Graduate School Admissions](/notes/GradSchool.md)
+- [Putting Life into Perspective](/notes/Perspective.md)
 
 You can also find a collection of all my posts [here](/tags/writing)
 

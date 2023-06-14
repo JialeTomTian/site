@@ -10,12 +10,14 @@ enableToc: true
   <img src="/notes/images/gradschool_1.jpg" alt="Sublime's custom image"/>
 </p>
 
-## Background & Disclaimer
-I am by no means an expert on graduate school admissions and
-this post is not meant to provide a complete a guide on how
-the admission process works. Through this writing, I hope
-to share some insights on my personal graduate school admission
-journey and some of my personal learnings along the way.
+> [!warning] Disclaimer
+> 
+> I am by no means an expert on graduate school admissions and
+> this post is not meant to provide a complete a guide on how
+> the admission process works. Through this writing, I hope
+> to share some insights on my personal graduate school admission
+> journey and some of my personal learnings along the way.
+## Background
 
 I first began seriously thinking about graduate school during
 my third (junior) year. I had been working with a professor
