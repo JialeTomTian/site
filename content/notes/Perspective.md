@@ -1,6 +1,6 @@
 ---
 title: "Putting Life into Perspective"
-date: 2023-06-13
+date: 2023-06-15
 tags:
 - Writing
 - Journal
@@ -39,4 +39,6 @@ Through this month long (so far) break, I finally took a step back
 and gained some **perspective**.
 
 ## Perspective
+
+College has numerous advantages: the personal freedom away from family, the consistent e
 
