@@ -71,7 +71,7 @@ change up my perspective.
   <img src="/notes/images/perspective_3.jpg" alt="Sublime's custom image"/>
 </div>
 <p align="center">
-Image of PingYuan City
+Image of PingYao City
 </p>
 
 ## Change
