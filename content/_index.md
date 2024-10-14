@@ -1,31 +1,28 @@
 ---
-title: "Home Page"
+title: "Tom Tian"
 enableToc: false
 ---
 
 ## About Me
-👋🏻 My name is Tom Tian and I am a Masters of Science in
+👋🏻 My name is Tom Tian and I am a (soon-to-be graduate) Masters of Science in
 Computer Science (MSCS) student at
-the University of Illinois Urbana Champaign. I recently
+the University of Illinois Urbana Champaign. I
 completed my Bachelor of Computer Science at the University
 of Waterloo in Ontario Canada 🇨🇦. Feel free to reach out to me
 using the links at the bottom of this page. You can also find
-a link to my resume [here](https://drive.google.com/file/d/1yX2wI_Lq8oJoO7ZiW47e_Y7FJFsN4_zA/view?usp=sharing).
+a link to my (probably outdated) resume [here](https://drive.google.com/file/d/1QUxd1mMWFiDTKF6x-2WaU_7Rvfdoxnvj/view?usp=sharing).
 
 ## Highlighted Posts
 Some of my "recent" writing that may be of interest:
 
-- [Putting Life into Perspective](/notes/Perspective.md)
+- [A Reflection of My Past Two Years: Grad School Edition](/notes/GradRecap.md)
 - [Yet Another Post on Graduate School Admissions](/notes/GradSchool.md)
 
 You can also find a collection of all my posts [here](/tags/writing)
 
 ## About This Page
-The more I traverse through my academic career, the more I realize 
-the importance of effective communication. However, now that I have
-the option to consume media digitally without reading or writing, I 
-have no good way to improve my written communication skills.
-This website is my best attempt to improve my writing. 
+I suck at free form writing. For the past few years, I have only written technical papers and documents.
+This website is my best attempt to improve my free form writing. 
 Maybe putting my ideas on the internet will motivate me to journal more 🤡. 
 I hope 
 to use this website as a way to frequently journal
