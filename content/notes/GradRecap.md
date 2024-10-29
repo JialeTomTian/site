@@ -58,7 +58,7 @@ are also almost all extremely bird, in order to make more time for research.
   <em>Going to SF to Give Talk on Undergraduate Research</em>
 </p>
 
-During my time at UIUC, I did work on a few really cool projects and really have to thank my advisor and PhD mentors ([Jiawei](https://jw-liu.xyz//) and [Steven](https://steven.cs.illinois.edu/)) for their support. In the end tho, I realized this isn't the direction for me (due to reasons mentioned above) but is definetly something I might want to revisit in the future (hopefully not when I am too old tho).
+During my time at UIUC, I did work on a few really cool projects and really have to thank my advisor([Lingming Zhang](https://lingming.cs.illinois.edu/index.html)) and PhD mentors ([Jiawei](https://jw-liu.xyz//) and [Steven](https://steven.cs.illinois.edu/)) for their support. In the end tho, I realized this isn't the direction for me (due to reasons mentioned above) but is definetly something I might want to revisit in the future (hopefully not when I am too old tho).
 
 <p align="center">
   <img src="/notes/images/UIUC_four.jpg" alt="Sublime's custom image"/>
