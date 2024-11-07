@@ -1,6 +1,6 @@
 ---
 title: "Fall Fatigue Strikes Again"
-date: 2024-11-6
+date: 2024-11-06
 tags:
 - Writing
 enableToc: true
