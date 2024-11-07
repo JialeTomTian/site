@@ -15,6 +15,7 @@ a link to my (probably outdated) resume [here](https://drive.google.com/file/d/1
 ## Highlighted Posts
 Some of my "recent" writing that may be of interest:
 
+- [Fall Fatigue](/notes/FallFatigue.md)
 - [A Reflection of My Past Two Years: Grad School Edition](/notes/GradRecap.md)
 - [Yet Another Post on Graduate School Admissions](/notes/GradSchool.md)
 
