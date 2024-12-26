@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 ## About Me
-👋🏻 My name is Tom Tian. I am an full time Software Engineer at Databricks 🧱. I
+👋🏻 My name is Tom Tian. I am a full time Software Engineer at Databricks 🧱. I
 completed my Masters of Science in
 Computer Science (MSCS) at
 the University of Illinois Urbana Champaign 🌽 and my Bachelor of Computer Science at the University
