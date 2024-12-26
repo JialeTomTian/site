@@ -4,11 +4,14 @@ enableToc: false
 ---
 
 ## About Me
-👋🏻 My name is Tom Tian and I am a (soon-to-be graduate) Masters of Science in
-Computer Science (MSCS) student at
-the University of Illinois Urbana Champaign. I
-completed my Bachelor of Computer Science at the University
-of Waterloo in Ontario Canada 🇨🇦. Feel free to reach out to me
+👋🏻 My name is Tom Tian. I am an full time Software Engineer at Databricks 🧱. I
+completed my Masters of Science in
+Computer Science (MSCS) at
+the University of Illinois Urbana Champaign 🌽 and my Bachelor of Computer Science at the University
+of Waterloo 🇨🇦. 
+
+
+During school, my research interests generally lie in the application of Large Language Models for code reasoning, understanding and generation (I am still very intersted in this direction, so feel free to reach out to me regarding any opportunities in this area). You can reach out to me
 using the links at the bottom of this page. You can also find
 a link to my (probably outdated) resume [here](https://drive.google.com/file/d/1QUxd1mMWFiDTKF6x-2WaU_7Rvfdoxnvj/view?usp=sharing).
 

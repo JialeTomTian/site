@@ -77,5 +77,5 @@ of my time is almost entirely spent between doing fun things and research (I did
 </p>
 
 # What's Next
-After graduating, I will be working as a Software Engineer at Databricks in Bellevue. If you are reading this (which I doubt anyone actually is), please hit me up. 
+After graduating, I will be working as a Software Engineer at Databricks in Bellevue. If you are reading this (which I doubt anyone actually is), feel free to hit me up if you are ever in town.
 
