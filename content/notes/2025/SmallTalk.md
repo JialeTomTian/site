@@ -36,7 +36,8 @@ sequenceDiagram
 ```
 
 Scarred by the past week's socially awkward moments, I have made a
-goal to improve on my small talk abilities. It is time to squash
+goal to improve on my small talk abilities. There are always so much to talk 
+about and learn about from someone, it is time to squash
 some crickets. While I am talking about new year resolutions, here is a complete 
 list of my new year resolutions for 2025.
 
