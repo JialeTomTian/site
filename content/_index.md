@@ -18,9 +18,10 @@ a link to my (probably outdated) resume [here](https://drive.google.com/file/d/1
 ## Highlighted Posts
 Some of my "recent" writing that may be of interest:
 
-- [Fall Fatigue](/notes/FallFatigue.md)
-- [A Reflection of My Past Two Years: Grad School Edition](/notes/GradRecap.md)
-- [Yet Another Post on Graduate School Admissions](/notes/GradSchool.md)
+- [Small Talks: A New Year Resolution](/notes/2025/SmallTalk.md)
+- [Fall Fatigue](/notes/2024/FallFatigue.md)
+- [A Reflection of My Past Two Years: Grad School Edition](/notes/2024/GradRecap.md)
+- [Yet Another Post on Graduate School Admissions](/notes/2024/GradSchool.md)
 
 You can also find a collection of all my posts [here](/tags/writing)
 
