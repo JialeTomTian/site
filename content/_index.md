@@ -18,6 +18,7 @@ a link to my (probably outdated) resume [here](https://drive.google.com/file/d/1
 ## Highlighted Posts
 Some of my "recent" writing that may be of interest:
 
+- [Adulting is Hard](/notes/2025/Adulting.md)
 - [Small Talks: A New Year Resolution](/notes/2025/SmallTalk.md)
 - [Fall Fatigue](/notes/2024/FallFatigue.md)
 - [A Reflection of My Past Two Years: Grad School Edition](/notes/2024/GradRecap.md)
@@ -38,7 +39,7 @@ a lot more <em>fun</em>.
 
 
 <div align="center">
-  <img src="/images/HomePage.jpg" alt="Sublime's custom image"/>
+  <img src="/images/HomePage.png" alt="Sublime's custom image"/>
 </div>
 <p align="center">
 I don't have a lot of good pictures
