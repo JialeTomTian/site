@@ -13,3 +13,5 @@ Now that I am working full time, here's to a summer fulfilling summer where I ge
 <p align="center">
   <img src="/notes/2025/images/SummerTime.jpg" alt="Someplace I hiked to in Spring"/>
 </p>
+
+Definetly could have found a better image to represent summer...
