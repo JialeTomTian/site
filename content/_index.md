@@ -3,7 +3,7 @@ title: "Tom Tian"
 enableToc: false
 ---
 
-## About Me
+## About Me (Boring Introduction Stuff)
 👋🏻 My name is Tom Tian. I am a full time Software Engineer at Databricks 🧱. I
 completed my Masters of Science in
 Computer Science (MSCS) at
@@ -18,6 +18,7 @@ a link to my (probably outdated) resume [here](https://drive.google.com/file/d/1
 ## Highlighted Posts
 Some of my "recent" writing that may be of interest:
 
+- [Summertime](/notes/2025/Summertime.md)
 - [Adulting is Hard](/notes/2025/Adulting.md)
 - [Small Talks: A New Year Resolution](/notes/2025/SmallTalk.md)
 - [Fall Fatigue](/notes/2024/FallFatigue.md)
